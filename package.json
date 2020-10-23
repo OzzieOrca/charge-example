@@ -1,0 +1,14 @@
+{
+  "name": "charge-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Scotty Waggoner <ozzieorca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "charge serve src",
+    "build": "charge build src dist"
+  },
+  "devDependencies": {
+    "@static/charge": "^1.7.0"
+  }
+}
